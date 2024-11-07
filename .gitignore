@@ -2,3 +2,4 @@ training-runs/
 __pycache__/
 **/__pycache__
 datasets/
+out_imgs/
